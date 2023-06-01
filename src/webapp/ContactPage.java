@@ -7,5 +7,4 @@ public class ContactPage {
     // youtube
     // email
 
-
 }
